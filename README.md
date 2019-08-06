@@ -5,10 +5,13 @@ Getting into fpv drones you have 3 options
 2. Get a prebuilt kit. $150-200 for a small micro drone.
 3. Build a drone. This gives you the most flexabilty and controller over what you want, but is also the biggest learning curve with the highest price of entry.
 
+---
 
 Drone sims
 1. https://www.velocidrone.com/
 2. https://store.steampowered.com/app/641780/The_Drone_Racing_League_Simulator/
+
+---
 
 
 I just want to buy stuff and get going as fast as possible. What are my options?
@@ -17,6 +20,8 @@ I just want to buy stuff and get going as fast as possible. What are my options?
 
 I really enjoy both these drones I fly them both almost everyweek with Boston Drone Racers
 
+
+---
 
 I want those drones but not in a kit
 
@@ -35,7 +40,7 @@ young adults:
 	https://www.racedayquads.com/collections/fpv-goggles/products/fatshark-recon-v3-fpv-goggles
 	https://www.racedayquads.com/collections/fpv-goggles/products/fatshark-recon-v2-5-8ghz-fpv-goggles-w-dvr
 
-
+---
 
 Enough of the beginner stuff, lets build a drone
 3" build parts list
