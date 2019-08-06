@@ -1,9 +1,9 @@
 # beginning_fpv
 
-Getting into fpv drone you have 3 options
+Getting into fpv drones you have 3 options
 1. Get a transmitter and a drone simulator. This is a great way to start learning how to fly and not breaking the bank. ~$120
 2. Get a prebuilt kit. $150-200 for a small micro drone.
-3. Build a drone. This gives you the most flexabilty and controller over what you want, but is also the biggest learning curve
+3. Build a drone. This gives you the most flexabilty and controller over what you want, but is also the biggest learning curve with the highest price of entry.
 
 
 Drone sims
@@ -28,17 +28,16 @@ https://www.racedayquads.com/collections/tiny-whoop-products/products/emax-tinyh
 https://newbeedrone.com/collections/beeductrix-inductrix/products/acrobee-lite-kit-frsky
 
 3. Get goggles
+adults: 
+	https://www.racedayquads.com/collections/fpv-goggles/products/fat-shark-dominator-hdo-fpv-goggles
+	with https://www.racedayquads.com/collections/fpv-goggles/products/immersionrc-rapidfire-goggle-receiver-paired-w-irc-antenna-set
+young adults:
+	https://www.racedayquads.com/collections/fpv-goggles/products/fatshark-recon-v3-fpv-goggles
+	https://www.racedayquads.com/collections/fpv-goggles/products/fatshark-recon-v2-5-8ghz-fpv-goggles-w-dvr
 
-
-
-|Beginner 1   |Beginner 2  |   |   |   |
-|-------------|------------|---|---|---|
-|   	      |   	   |   |   |   |
-|   	      |   |   |   |   |
-|   |   |   |   |   |
 
 
 Enough of the beginner stuff, lets build a drone
-3inch build parts list
+3" build parts list
 
-5inch build parts list
+5" build parts list
