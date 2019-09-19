@@ -33,7 +33,8 @@ https://www.racedayquads.com/collections/tiny-whoop-products/products/emax-tinyh
 https://newbeedrone.com/collections/beeductrix-inductrix/products/acrobee-lite-kit-frsky
 
 3. Get goggles
-adults: 
+
+adults: Best of the best
 	https://www.racedayquads.com/collections/fpv-goggles/products/fat-shark-dominator-hdo-fpv-goggles
 	with https://www.racedayquads.com/collections/fpv-goggles/products/immersionrc-rapidfire-goggle-receiver-paired-w-irc-antenna-set
 
