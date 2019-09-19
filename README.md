@@ -43,7 +43,8 @@ young adults:
 ---
 
 Enough of the beginner stuff, lets build a drone	
-##3" build parts list
+
+## 3" build parts list
 Frame: https://www.racedayquads.com/products/the-acrobrat-3-frame-by-ummagawd?gclid=CjwKCAjwq4fsBRBnEiwANTahcMtXmQBpMbjHWXJ-tok4ipiJRLQLpPHG1zYhdPmE0Hwiha3CHn5qdhoCmQcQAvD_BwE
 
 Motors: https://www.racedayquads.com/products/brotherhobby-1407-4100kv-3-motor-brotherhobby-tornado-3
@@ -61,7 +62,7 @@ How long can you fly for? 2-3 minutes or fly until the voltage of a single cell 
 Optional 3D printed parts: https://www.brain3d.co/products/ummagawd-acrobat-accessory-kit?variant=12557036388439
 
 
-##5" build parts list
+## 5" build parts list
 Frame: https://www.racedayquads.com/collections/5-frames/products/rotor-riot-cl1-frame $34.99
 	This is a cheap but good frame.
 
