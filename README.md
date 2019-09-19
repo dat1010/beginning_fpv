@@ -43,16 +43,25 @@ young adults:
 ---
 
 Enough of the beginner stuff, lets build a drone	
-*3" build parts list*
+##3" build parts list
 Frame: https://www.racedayquads.com/products/the-acrobrat-3-frame-by-ummagawd?gclid=CjwKCAjwq4fsBRBnEiwANTahcMtXmQBpMbjHWXJ-tok4ipiJRLQLpPHG1zYhdPmE0Hwiha3CHn5qdhoCmQcQAvD_BwE
 
 Motors: https://www.racedayquads.com/products/brotherhobby-1407-4100kv-3-motor-brotherhobby-tornado-3
+
 ESC and Flight Controller: https://www.racedayquads.com/products/hobbywing-xrotor-nano-combo-f4-flight-controller-20a-4-in-1-esc?_pos=1&_sid=be781755e&_ss=r
 		https://www.getfpv.com/hobbywing-xrotor-nano-combo-f4-flight-controller-20a-4-in-1-esc.html
 
+Props: https://www.racedayquads.com/products/hq-t3x3x3-pc-dp-durable-prop-for-3-three-hole-mount?_pos=4&_sid=dfaff1610&_ss=r
+
+VTX: https://www.racedayquads.com/products/runcam-tx200-video-transmitter-for-the-micro-swift?_pos=3150&_sid=6662df855&_ss=r
+
+Battiers: 3s.https://www.getfpv.com/tattu-650mah-3s1p-75c-11-1v-lipo-battery-pack-with-xt30-plug.html
+How long can you fly for? 2-3 minutes or fly until the voltage of a single cell ready 3.8v
+
+Optional 3D printed parts: https://www.brain3d.co/products/ummagawd-acrobat-accessory-kit?variant=12557036388439
 
 
-*5" build parts list*
+##5" build parts list
 Frame: https://www.racedayquads.com/collections/5-frames/products/rotor-riot-cl1-frame $34.99
 	This is a cheap but good frame.
 
@@ -62,3 +71,15 @@ ECS: x4 https://www.getfpv.com/dys-aria-blheli-32bit-35a-esc.html
 
 Flight Controller: https://www.getfpv.com/cl-racing-f4s-flight-controller.html
 
+Batteries: 3s https://www.getfpv.com/lumenier-1500mah-3s-75c-lipo-battery.html
+Flight time ~ 3-4 minutes. Fly until a single cell reads 3.8v
+
+Props: https://www.racedayquads.com/products/hq-durables-tri-5x5x3-v1s?variant=4184638816267&currency=USD&gclid=CjwKCAjwq4fsBRBnEiwANTahcFFhYlXrMZMHnKLtkDWyAGtf3IBbrkRoEZ22OeMqsZPl_taR_q2-TRoCLacQAvD_BwE
+
+VTX: https://www.amazon.com/Ultra-Power-UP120AC-Balancing-Charger/dp/B00VOYR6MQ/ref=asc_df_B00VOYR6MQ/?tag=hyprod-20&linkCode=df0&hvadid=241938192625&hvpos=1o1&hvnetw=g&hvrand=4046968771989120114&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9001997&hvtargid=aud-801381245258:pla-585477838755&psc=1
+
+VTX antenna: https://www.racedayquads.com/products/foxeer-lollipop-v3-5-8ghz-10cm-long-range-sma-antenna-2-pack-rhcp-choose-your-color?_pos=1154&_sid=6662df855&_ss=r
+
+Extras:
+
+Charger: https://www.amazon.com/Ultra-Power-UP120AC-Balancing-Charger/dp/B00VOYR6MQ/ref=asc_df_B00VOYR6MQ/?tag=hyprod-20&linkCode=df0&hvadid=241938192625&hvpos=1o1&hvnetw=g&hvrand=4046968771989120114&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9001997&hvtargid=aud-801381245258:pla-585477838755&psc=1
