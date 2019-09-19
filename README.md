@@ -36,6 +36,7 @@ https://newbeedrone.com/collections/beeductrix-inductrix/products/acrobee-lite-k
 adults: 
 	https://www.racedayquads.com/collections/fpv-goggles/products/fat-shark-dominator-hdo-fpv-goggles
 	with https://www.racedayquads.com/collections/fpv-goggles/products/immersionrc-rapidfire-goggle-receiver-paired-w-irc-antenna-set
+
 young adults:
 	https://www.racedayquads.com/collections/fpv-goggles/products/fatshark-recon-v3-fpv-goggles
 	https://www.racedayquads.com/collections/fpv-goggles/products/fatshark-recon-v2-5-8ghz-fpv-goggles-w-dvr
