@@ -42,7 +42,23 @@ young adults:
 
 ---
 
-Enough of the beginner stuff, lets build a drone
-3" build parts list
+Enough of the beginner stuff, lets build a drone	
+*3" build parts list*
+Frame: https://www.racedayquads.com/products/the-acrobrat-3-frame-by-ummagawd?gclid=CjwKCAjwq4fsBRBnEiwANTahcMtXmQBpMbjHWXJ-tok4ipiJRLQLpPHG1zYhdPmE0Hwiha3CHn5qdhoCmQcQAvD_BwE
 
-5" build parts list
+Motors: https://www.racedayquads.com/products/brotherhobby-1407-4100kv-3-motor-brotherhobby-tornado-3
+ESC and Flight Controller: https://www.racedayquads.com/products/hobbywing-xrotor-nano-combo-f4-flight-controller-20a-4-in-1-esc?_pos=1&_sid=be781755e&_ss=r
+		https://www.getfpv.com/hobbywing-xrotor-nano-combo-f4-flight-controller-20a-4-in-1-esc.html
+
+
+
+*5" build parts list*
+Frame: https://www.racedayquads.com/collections/5-frames/products/rotor-riot-cl1-frame $34.99
+	This is a cheap but good frame.
+
+Motors: x4 https://www.getfpv.com/3bhobby-2206s-1800kv-training-motor-6913.html
+
+ECS: x4 https://www.getfpv.com/dys-aria-blheli-32bit-35a-esc.html
+
+Flight Controller: https://www.getfpv.com/cl-racing-f4s-flight-controller.html
+
