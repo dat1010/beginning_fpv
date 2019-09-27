@@ -45,6 +45,18 @@ young adults:
 
 ---
 
+Build Tutorials:
+My First build/tutorial I followed
+https://www.youtube.com/watch?v=8jbpwqCCVbs
+
+Acrobrat 3inch:
+https://youtu.be/VTkBM8IN5_Y
+
+One 5inch build:
+https://www.youtube.com/watch?v=QrOJySAljwE
+
+
+
 Enough of the beginner stuff, lets build a drone	
 
 ## 3" build parts list
