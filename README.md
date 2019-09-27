@@ -46,7 +46,7 @@ young adults:
 ---
 
 Build Tutorials:
-My First build/tutorial I followed
+My First build/tutorial I followed. This is outdated build but I learned a lot from it.
 https://www.youtube.com/watch?v=8jbpwqCCVbs
 
 Acrobrat 3inch:
