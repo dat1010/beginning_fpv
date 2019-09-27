@@ -25,6 +25,7 @@ I really enjoy both these drones I fly them both almost everyweek with Boston Dr
 
 I want those drones but not in a kit
 
+
 1. Get a transmitter
 https://www.getfpv.com/frsky-taranis-q-x7-2-4ghz-16ch-transmitter-black.html
 
@@ -86,3 +87,9 @@ VTX antenna: https://www.racedayquads.com/products/foxeer-lollipop-v3-5-8ghz-10c
 Extras:
 
 Charger: https://www.amazon.com/Ultra-Power-UP120AC-Balancing-Charger/dp/B00VOYR6MQ/ref=asc_df_B00VOYR6MQ/?tag=hyprod-20&linkCode=df0&hvadid=241938192625&hvpos=1o1&hvnetw=g&hvrand=4046968771989120114&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9001997&hvtargid=aud-801381245258:pla-585477838755&psc=1
+
+Heat Shrink: https://www.amazon.com/Vktech-150pcs-Shrink-Tubing-Sleeving/dp/B00EXLPLTW/ref=sr_1_13?gclid=Cj0KCQjww7HsBRDkARIsAARsIT6v6tGh5N0e_QlzevechuWH1P13ECMHhvE6iw_Ka3x92MDYI1l0acIaAkozEALw_wcB&hvadid=323487792660&hvdev=c&hvlocphy=9001997&hvnetw=g&hvpos=1t1&hvqmt=b&hvrand=1441950967464033816&hvtargid=aud-647006051489%3Akwd-355257394739&hydadcr=3648_9781868&keywords=heat+shrink+tube+wire&qid=1569550277&sr=8-13
+
+Rubber Standoff: https://www.amazon.com/RLECS-Absorber-Vibration-Controller-Accessories/dp/B07WZY8N3K/ref=sr_1_1_sspa?keywords=standoff+m3&qid=1569550346&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzSzJGWkdHSEg4UjlPJmVuY3J5cHRlZElkPUEwODg1MzMwMkNHVldKM1A5WFVUUyZlbmNyeXB0ZWRBZElkPUEwOTE4MzczMjUwUFgxNjRJQjZXWSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
+
+M3 Standoff: https://www.amazon.com/Saiper-Spacers-Standoff-Assortment-Quadcopter/dp/B07SWWVW8G/ref=sr_1_11_sspa?keywords=standoff+m3&qid=1569550346&sr=8-11-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzSzJGWkdHSEg4UjlPJmVuY3J5cHRlZElkPUEwODg1MzMwMkNHVldKM1A5WFVUUyZlbmNyeXB0ZWRBZElkPUEwMzUxNzg0M1I1V05aWUVSOU81SiZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
