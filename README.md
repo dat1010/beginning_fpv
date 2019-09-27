@@ -3,7 +3,7 @@
 Getting into fpv drones you have 3 options
 1. Get a transmitter and a drone simulator. This is a great way to start learning how to fly and not breaking the bank. ~$120
 2. Get a prebuilt kit. $150-200 for a small micro drone.
-3. Build a drone. This gives you the most flexabilty and controller over what you want, but is also the biggest learning curve with the highest price of entry.
+3. Build a drone. Building gives you the most flexabilty and control over what you out of your drone, but is also the biggest learning curve with the highest price of entry.
 
 ---
 
